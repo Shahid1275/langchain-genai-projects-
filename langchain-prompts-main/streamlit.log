@@ -1,0 +1,14 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-11-03 14:54:07.647 Uvicorn server started on :::8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://11.11.12.79:8501
+  External URL: http://103.177.240.138:8501
+
+/home/shahid/Downloads/langchain-prompts-main/prompt_ui.py:22: LangChainDeprecationWarning: The function `load_prompt` was deprecated in LangChain 1.2.21 and will be removed in 2.0.0. Use `Use `dumpd`/`dumps` from `langchain_core.load` to serialize prompts and `load`/`loads` to deserialize them.` instead.
+  template = load_prompt('template.json')
+  Stopping...
