@@ -13,7 +13,7 @@ Practice code and mini-projects built while learning LangChain and GenAI concept
 
 ## Setup
 
-Each folder has its own dependencies. Create a virtual environment inside the folder you want to run, install requirements if present, and add a `.env` file with your API keys (ignored by git).
+Each folder has its own dependencies. Create a virtual environment inside the folder you want to run, install requirements if present, and add a `.env` file with your API keys.
 
 ```bash
 cd <folder-name>
